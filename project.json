@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "244CBFD1-72",
+    "build_number": 72,
+    "build_time": 1615461141103
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "学习助手多账号",
+  "packageName": "com.xuexi.zhushoupro",
+  "scripts": {},
+  "versionCode": 7,
+  "versionName": "2021.03.11"
+}
